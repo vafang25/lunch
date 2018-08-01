@@ -1,0 +1,45 @@
+body{
+    background-color: #000000;
+    color: #FFFFFF;
+    }
+
+#mondayImage{
+    height: 240px;
+    width: 240px;
+}
+
+#tuesdayImage{
+    height: 240px;
+    width: 621px;
+}
+
+#wednesdayImage{
+    height: 240px;
+    width=: 321px;
+}
+
+#thursdayImage{
+    height: 240px;
+    width: 360px;
+}
+
+#fridayImage{
+    height: 240px;
+    width: 270px;
+}
+
+div{
+    border: solid 2px #C0C0C0;
+    text-align: center;
+    margin: 8px;
+    width: 50%;
+}
+
+body{
+    text-align: center;
+}
+
+title{
+    text-align: center;
+}
+
